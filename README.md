@@ -1,7 +1,7 @@
 # SWD Programming Adapter
 
 Enables a reliable connection between an **ST-Link clone** and a **1.27 mm 2×3 pin IDC connector**.  
-Power output can be configured for **3.3 V** or **5 V** (default: **5 V**).
+Power output can be configured for **3.3 V** or **5 V** (default: **5 V**).  
 Includes a **red status LED** to indicate power.
 
 ## Usage
