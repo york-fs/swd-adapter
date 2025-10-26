@@ -1872,7 +1872,7 @@
 		(at 33.02 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1912,6 +1912,42 @@
 			)
 		)
 		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist" ""
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist #" ""
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" ""
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" ""
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -1983,6 +2019,42 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 35.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 35.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist #" "C49326188"
+			(at 35.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Megastar"
+			(at 35.56 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "ZX-PM2.54-2-5PWS"
 			(at 35.56 25.4 0)
 			(effects
 				(font
@@ -2085,7 +2157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C6332200"
+		(property "Dist #" "C42372545"
 			(at 67.31 25.4 0)
 			(effects
 				(font
@@ -2094,7 +2166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Hanbo Electronic"
+		(property "Mfr" "hanxia"
 			(at 67.31 25.4 0)
 			(effects
 				(font
@@ -2103,7 +2175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "HB-PH3-25417PB2GOP"
+		(property "Mfr #" "HX JN1.27-2x3P ZZ H4.9"
 			(at 67.31 25.4 0)
 			(effects
 				(font
@@ -2203,6 +2275,42 @@
 				(hide yes)
 			)
 		)
+		(property "Dist" "LCSC"
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist #" "C21190"
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "UNI-ROYAL"
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "0603WAF1001T5E"
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f2e10483-c935-442f-9b19-a30439f64220")
 		)
@@ -2275,6 +2383,42 @@
 		)
 		(property "Sim.Pin" "1=K 2=A"
 			(at 60.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 60.96 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist #" "C84263"
+			(at 60.96 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Foshan NationStar Optoelectronics"
+			(at 60.96 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "NCD0603R1"
+			(at 60.96 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -83,7 +83,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -119,7 +118,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "61bce97a-6e41-416e-9055-355eea0b3c57")
+			(uuid "7ab0cecf-2ae0-4a59-b2b8-3f75eb012c80")
 			(effects
 				(font
 					(size 1 1)
@@ -132,7 +131,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d18cffe-e712-44b3-9404-1d189d7010e3")
+			(uuid "09e5b764-4e17-4547-9c9a-0c04cc3f660a")
 			(effects
 				(font
 					(size 1 1)
@@ -140,11 +139,11 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8662b390-4c96-4d00-b282-b11b8a42354d")
+			(uuid "97834c9d-5817-4247-8a9d-46d54a218fd2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -156,7 +155,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bdeb4670-d6ba-4a7e-b698-f96540a9c216")
+			(uuid "a64b0f80-f67f-42a0-a4c2-330644dac82c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,7 +163,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C6332200"
+		(property "Dist #" "C42372545"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -177,7 +176,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hanbo Electronic"
+		(property "Mfr" "hanxia"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -190,7 +189,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "HB-PH3-25417PB2GOP"
+		(property "Mfr #" "HX JN1.27-2x3P ZZ H4.9"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -271,17 +270,6 @@
 			(fill no)
 			(layer "F.SilkS")
 			(uuid "a7868d07-cd19-44cf-a62e-4ab619be2188")
-		)
-		(fp_circle
-			(center -5.6896 0)
-			(end -5.3086 0)
-			(stroke
-				(width 0.508)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "ed26770a-167f-4348-afb6-5dac44fea8aa")
 		)
 		(fp_line
 			(start -4.0386 2.1717)
@@ -494,7 +482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -526,6 +514,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ac15b7fa-8e1b-444e-a17a-077c123ec3cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "138f8344-5af1-4f9b-bc0e-fed096fe8bd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist #" "C84263"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a0c57ac-82ff-462f-b642-ec6eabb9c13d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Foshan NationStar Optoelectronics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1eba14d3-3daa-4fc7-81f7-43fdbe7b2381")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr #" "NCD0603R1"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5212870b-e5e5-4f20-88a2-bd42fa759ebb")
 			(effects
 				(font
 					(size 1 1)
@@ -731,7 +771,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -753,6 +793,58 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42710db3-642e-4171-99dd-e1d3c583b9cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist #" "C49326188"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8700569-3bfd-48ab-a9ca-2c95c19ae62d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Megastar"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe634af5-9015-4c9d-bc8e-cd31797d047b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr #" "ZX-PM2.54-2-5PWS"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3336780-48e4-421c-a156-54ba692105d4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1095,7 +1187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1117,6 +1209,58 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8609f21b-8f8d-4ecc-ae9f-72cebd5bd744")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dist #" "C21190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e691e4aa-bb52-4ee1-8597-38c000f8d781")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "UNI-ROYAL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5750a5ac-f7c7-454e-a44f-389192f9eaf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr #" "0603WAF1001T5E"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75cb8a5c-533c-42ac-9199-686efaf0fb62")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1300,7 +1444,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -1328,12 +1472,68 @@
 				(justify mirror)
 			)
 		)
+		(property "Dist" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "83b90f23-2a02-48e3-9eee-bb730900c8e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Dist #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "90208b10-6ac0-4884-bb41-0c9611e932b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Mfr" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5ad4ae8-9378-4f9b-a52b-57b596284db3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Mfr #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49cdf731-a9b2-4180-ade6-9495682c5cf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/0cdd9815-9cc8-4bf4-a31e-d5cfd4b6610d")
 		(sheetname "/")
 		(sheetfile "SWD_Adapter.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1,2")
 		(fp_poly
 			(pts
